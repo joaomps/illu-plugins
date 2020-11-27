@@ -35,7 +35,7 @@ allprojects {
 subprojects {
     group = "com.openosrs.externals"
 
-    project.extra["PluginProvider"] = "illumine"
+    project.extra["PluginProvider"] = "nox"
     project.extra["ProjectSupportUrl"] = "https://discord.gg/9fGzEDR"
     project.extra["PluginLicense"] = "3-Clause BSD License"
 
